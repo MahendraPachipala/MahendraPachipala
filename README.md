@@ -19,7 +19,7 @@ I am currently a student at Vellore Institute of Technology (VIT), passionate ab
 
 ### My Tech Stack
 
-- **Languages**: JavaScript, HTML, CSS
+- **Languages**:Java, JavaScript, HTML, CSS
 - **Frameworks/Libraries**: React, Next.js, Tailwind CSS
 - **Databases**: MongoDB, SQL
 - **Tools**: Git, VSCode
