@@ -34,7 +34,7 @@ I am currently a student at Vellore Institute of Technology (VIT), passionate ab
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mahendra-pachipala/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/naga-mahendra-pachipala-54216623a/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/MahendraPachipala)
 
 
