@@ -19,10 +19,13 @@ I am currently a student at **Vellore Institute of Technology (VIT)**, passionat
 
 ### My Tech Stack 💻
 
+| **Category**          | **Technologies**                                                                                      |
+|-----------------------|-------------------------------------------------------------------------------------------------------|
 | **Languages**         | ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) ![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3) |
 | **Frameworks**        | ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-blue?style=flat-square&logo=tailwind-css) |
 | **Databases**         | ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb) ![SQL](https://img.shields.io/badge/SQL-blue?style=flat-square&logo=mysql) |
 | **Tools**             | ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git) ![VSCode](https://img.shields.io/badge/VSCode-blue?style=flat-square&logo=visual-studio-code) |
+
 
 ---
 
