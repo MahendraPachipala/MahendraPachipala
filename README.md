@@ -33,12 +33,6 @@ I am currently a student at **Vellore Institute of Technology (VIT)**, passionat
 ![Mahendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahendraPachipala&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahendraPachipala&layout=compact&theme=radical)
 
----
-
-### Projects 🚀
-
-- [**AI-based Personal Assistant**](https://github.com/MahendraPachipala/your-repo-name) - A Next.js project that helps users manage their tasks effectively.
-- [**Other Project Name**](https://github.com/MahendraPachipala/your-other-repo-name) - Brief description of the project.
 
 ---
 
