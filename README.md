@@ -10,7 +10,7 @@ I am currently a student at **Vellore Institute of Technology (VIT)**, passionat
 
 - 🔭 I’m currently working on an **AI-based personal assistant** built with **Next.js**.
 - 🌱 I’m currently learning **Next.js**.
-- 💬 Ask me about **Next.js, React, and AI assistant development**.
+- 💬 Ask me about **Next.js, React, and Node**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/naga-mahendra-pachipala-54216623a/) | Email: [mahendrapachipala123@gmail.com](mailto:mahendrapachipala123@gmail.com)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I enjoy working on **problem-solving challenges** and always aim to improve my skills with real-world projects.
