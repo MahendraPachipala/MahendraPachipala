@@ -4,20 +4,21 @@
 **MahendraPachipala/MahendraPachipala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### About Me
+### 👨‍💻 About Me
 
-I am currently a student at **Vellore Institute of Technology (VIT)**, passionate about web development and eager to learn new technologies. My focus right now is mastering **Next.js** and building efficient web applications.
+I am currently a student at **Vellore Institute of Technology (VIT)**, passionate about web development and eager to learn new technologies.  
+My focus right now is mastering **Next.js** and building efficient web applications.
 
-- 🔭 I’m currently working on an **AI-based personal assistant** built with **Next.js**.
-- 🌱 I’m currently learning **Next.js**.
-- 💬 Ask me about **Next.js, React, and Node**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/naga-mahendra-pachipala-54216623a/) | Email: [mahendrapachipala123@gmail.com](mailto:mahendrapachipala123@gmail.com)
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I enjoy working on **problem-solving challenges** and always aim to improve my skills with real-world projects.
+- 🔭 I’m currently working on an **AI-based personal assistant** built with **Next.js**.  
+- 🌱 I’m currently learning **Next.js**.  
+- 💬 Ask me about **Next.js, React, and Node.js**.  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/naga-mahendra-pachipala-54216623a/) | [Email](mailto:mahendrapachipala123@gmail.com)  
+- 😄 Pronouns: **He/Him**  
+- ⚡ Fun fact: I enjoy working on **problem-solving challenges** and improving my skills through real-world projects.  
 
 ---
 
-### My Tech Stack 💻
+### 💻 My Tech Stack
 
 | **Category**          | **Technologies**                                                                                      |
 |-----------------------|-------------------------------------------------------------------------------------------------------|
@@ -26,19 +27,23 @@ I am currently a student at **Vellore Institute of Technology (VIT)**, passionat
 | **Databases**         | ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb) ![SQL](https://img.shields.io/badge/SQL-blue?style=flat-square&logo=mysql) |
 | **Tools**             | ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git) ![VSCode](https://img.shields.io/badge/VSCode-blue?style=flat-square&logo=visual-studio-code) |
 
-
 ---
 
-### GitHub Stats 📊
+### 📊 GitHub Stats
 
-![Mahendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahendraPachipala&show_icons=true&theme=radical)
+![Mahendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahendraPachipala&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahendraPachipala&layout=compact&theme=radical)
 
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/naga-mahendra-pachipala-54216623a/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/MahendraPachipala)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-orange?style=flat-square&logo=geeksforGeeks)](https://www.geeksforgeeks.org/user/mahendrapacgsjl/)
 
 ---
 
-### Connect with Me 🌐
+### 🏅 Holopin Badges
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/naga-mahendra-pachipala-54216623a/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/MahendraPachipala)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-orange?style=flat-square&logo=geeksforGeeks)](https://www.geeksforgeeks.org/user/mahendrapacgsjl/)
+[![An image of @mahendrapachipala's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mahendrapachipala)](https://www.holopin.io/@mahendrapachipala)
