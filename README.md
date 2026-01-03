@@ -40,13 +40,10 @@ My focus right now is mastering **Next.js** and building efficient, scalable web
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahendraPachipala&show_icons=true&theme=radical" height="150" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahendraPachipala&layout=compact&theme=radical" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MahendraPachipala&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MahendraPachipala&layout=compact&theme=radical" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahendraPachipala&theme=radical" alt="GitHub Streak"/>
-</p>
 
 
 
