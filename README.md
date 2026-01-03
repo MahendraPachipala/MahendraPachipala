@@ -18,6 +18,16 @@ My focus right now is mastering **Next.js** and building efficient, scalable web
 
 ---
 
+### 🏅 Holopin Badges
+
+<p align="center">
+  <a href="https://holopin.io/@mahendrapachipala">
+    <img src="https://holopin.me/mahendrapachipala" alt="@mahendrapachipala's Holopin Badges"/>
+  </a>
+</p>
+
+---
+
 ### 💻 My Tech Stack
 
 | **Category** | **Technologies** |
@@ -59,14 +69,6 @@ My focus right now is mastering **Next.js** and building efficient, scalable web
 
 ---
 
-### 🏅 Holopin Badges
 
-<p align="center">
-  <a href="https://holopin.io/@mahendrapachipala">
-    <img src="https://holopin.me/mahendrapachipala" alt="@mahendrapachipala's Holopin Badges"/>
-  </a>
-</p>
-
----
 
 
