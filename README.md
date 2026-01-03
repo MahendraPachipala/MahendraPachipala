@@ -31,9 +31,9 @@ My focus right now is mastering **Next.js** and building efficient, scalable web
 
 ### 🚀 Featured Projects
 
-- 🧠 [**AI Personal Assistant**](https://github.com/MahendraPachipala/AI-Assistant) – Built using **Next.js**, integrates **OpenAI API** for natural conversations and voice commands.  
-- 🌐 [**Portfolio Website**](https://mahendrapachipala.vercel.app) – A modern, animated personal portfolio made with **Next.js + Tailwind CSS**.  
-- 📊 [**Kanban Task Manager**](https://github.com/MahendraPachipala/Kanban-Board) – Task management system built with **React, Node.js, and MongoDB**.
+- 🧠 [Task Manager](https://ai-task-manager-murex.vercel.app/) – Built using **Next.js**, integrates **Gemini API**.
+- 🌐 [Portfolio Website](https://mahendraportfolio-brown.vercel.app/) – Built with **Next.js + Tailwind CSS**.
+
 
 ---
 
